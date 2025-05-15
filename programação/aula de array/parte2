@@ -1,0 +1,10 @@
+//pra trocar valores
+  int i;
+  int tam = 5, x=20, y=-40, temp;
+
+  printf("x = %d y = %d", x,y);
+  temp = x;
+  x = y;
+  y = temp;
+
+  printf("\n\nx = %d y = %d",x,y);
