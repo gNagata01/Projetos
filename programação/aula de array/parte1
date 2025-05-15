@@ -1,0 +1,20 @@
+//eu queria saber pq ele escreve torto...
+#include <stdio.h>
+
+int main (){
+    // aula de array   esse exercicio é de ordenação
+    int temp [10];
+    int vetor[10] = {3,23,7,1,14,-9,16};
+    int inicio = 2, fim = 4, i;
+    //essas variáveis estaõ fixas, inicio e fim estao HARD CODED
+    //
+
+    for (i=inicio; i <= fim; i++){
+        temp[i-inicio] = vetor[i];
+        printf("vetor [%d] = %d",i,vetor[i]);
+        printf(" temp [%d] = %d\n", i -inicio,temp[i-inicio]);
+    }
+
+    return 0;
+
+}
