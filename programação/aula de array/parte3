@@ -1,0 +1,47 @@
+#include <stdio.h>
+
+int main(){
+    //bubble sort: algoritmo de ordenação, tem o insert sort tb -> PESQUISAR E IMPLEMENTAR
+    int vetor[10] = {5,2,7,1,6};
+    int i,j,k;
+    int tam = 5, temp;
+
+    for(i-0; i<tam; i++){
+        printf("%d", vetor[i]);
+    }
+    for(k = 0; k < tam-2; k++){
+        printf("\netapa %d", k+1);
+        for(i-0;i<tam-1-k;i++){
+            if(vetor[i]>vetor[i+1]){
+                temp = vetor[i];
+                vetor[i]=vetor[i+1];
+                vetor[i+1]=temp;
+            }
+            //printf("%d \n", vetor[i]);
+            printf("\n");
+            for(j=0;j<tam;j++){
+                printf("%d", vetor[j]);
+            }
+        }
+    }
+
+   /* printf("x = %d y = %d", x,y);
+
+    temp = x;
+    x = y;
+    y = temp;
+
+    printf("\n\nx = %d y = %d",x,y);
+
+    int k;
+
+    for(i=0; i< tam - 1 - k; i++){
+        printf("%d \n", vetor[i]);
+    }*/
+
+
+
+
+    return 0;
+}
+
