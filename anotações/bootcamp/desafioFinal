@@ -1,0 +1,26 @@
+isso aqui é da webaula5
+
+vamos usar o google gemini (ia) eca
+n entedi muito bem ne, mas tudo bem 
+a gnt vai juntar algumas ferramentas de o google com o git e o github
+
+pode usar o gemini pra qqr coisa
+  
+  o trabalho tem que ter: 
+-1) plano de implantação (como vamos juntar as coisas) no google docs, tem q ser detalhado, vamos usar o gemini nessa etapa
+-2) criar um espaço no google workspace pro projeto, integrar o workspace no portfoliohub "como o armazenamento de projetos no google drive e a sincronização com o google calendar"
+-3) gestão de usuário e segurança: configurar as permissões de quem pode ou n ver oq eu to fazendo e integrar com o portfolio; conferir com o gemini se a segurança tá boa
+-4) compartilhamento e controle de acesso: git e github -> colocar no repositório do portfolio -> ele nao quer se estressar com as permissões
+-5) finalização da integração e testes: fazer o resto das integrações, preparar o portfoliohub pra ser usado na vida real ("lançamento em produção e uso real" -> isso aqui significa que se a gnt quiser, a gnt pode 
+                                                                                                                       colocar público no github, oq eu já faço...)
+-6) video explicando de novo (...)
+
+nada precisa ser feito do zero, tudo a gnt já fez em outras etapas
+
+é o mesmo tipo de entrega: lista com pdfs
+
+o professor ainda vai explicar um resto da tarefa em outra aula, nessa aula ele mostrou o gemini
+
+SEMPRE DECLARAR USO DO GEMINI, todo uso da ferramenta deve ser traduzido para as minhas palavras
+
+agora ele tá usando a ia pra fazer o plano de implementação, é só usar como qualquer outra ia de conversa
