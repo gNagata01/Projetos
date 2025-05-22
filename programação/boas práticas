@@ -1,0 +1,24 @@
+_todo e qualquer codigo sem indentação sera anulado
+_todas as variáveis devem ser declaradas no início do código, em C padrão, ao declarar uma vari fora do bloquinho de começo, o código não roda
+_o "return 0" serve pra finalizar o código
+
+_a gnt tá vendo a mesma coisa que eu vi com a tina na aula de python dela...
+
+
+_CRIANDO FUNÇÕES
+o molde básico é assim:
+
+h
+tipos possíveis de função:f
+_int, float, void, double, long. (void é o vazio, vc n quer pegar nada)
+
+criando uma função void
+
+void mostra_nome(){
+  printf("usando a função...")
+}
+
+retorna 1 se for vdd, 0 se n formar triangulo
+formula de heron :: semiperímetro e essas coisas
+agr (dps do recreio) ele ta fazendo o exercicio do triangulo completo, criando funçoes pra simplificar a conta
+eu e a heloa fomos num evento do dce pra tentar ganhar aula de violao de graça, só que tinha que responder umas perguntas aleatórias sobre musica, eu peguei duas de quatro sobre teoria musical e eu sou horrivel em teoria musical
