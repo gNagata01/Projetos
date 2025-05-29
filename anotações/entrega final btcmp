@@ -1,0 +1,69 @@
+TRILHA DE IMPLANTAÇÃO DO PHUB COM O GEMINI E GOOGLE WORKSPACE
+Este arquivo foi escrito com a assistência do Google Gemini, a IA recebeu a prompt "como eu faço uma trilha de implantação?" e mais detalhes sobre a entrega, originando um texto extenso. Após a leitura da resposta da IA, escrevi esse documento mais simples e já aplicado à entrega.
+Os tópicos em destaque são os recomendados pela IA para a construção de uma Trilha de Implantação.
+
+
+FASE 1: Planejamento e Preparação
+
+  - Definição de Requisitos e Escopo
+  O PHUB será utilizado por quem tiver a permissão para alterá-lo e visitá-lo, além de colegas e possíveis empregadores. 
+  Nele, projetos pessoais e profissionais serão armazenados, bem como informações de um portfólio profissional.
+  O PHUB está armazenado no GitHub e, por enquanto, não precisa alcançar tantas pessoas, visto que é apenas um trabalho acadêmico atualmente.
+
+  - Definição da Arquitetura e Tecnologia
+  O PHUB foi feito originalmente usando algumas ferramentas do google workspace, agora está no GitHub.
+  Ferramentas do google workspace a serem utilizadas nessa entrega: Gemini e Drive.
+  Todo o PHUB está disponível no repositório público PortfolioHUB e pode ser versionado com o Git.
+
+  - Cronograma e Recursos
+  Estimativa de tempo: 
+    * Fase 1 planejamento e preparação - 10 minutos
+    * Fase 2 configuração inicial e infraestrutura - já está feita
+    * Fase 3 integração com o google workspace e gestão de usuários - 
+    * Fase 4 compartilhamento e controle de acesso - não será necessário
+    * Fase 5 testes, treinamento e go-live - 
+    * Fase 6 manutenção e otimização contínua -
+
+  - Equipe de Implantação
+  Todas as tarefas necessárias para a entrega serão realizadas por mim com o auxílio do Gemini.
+
+
+FASE 2: Configuração Inicial e Infraestrutura
+  Todas as etapas dessa fase já foram concluídas em entregas anteriores.
+
+
+FASE 3: Integração Google Workspace e Gestão de Usuários
+
+  - Integração com Google Workspace
+  A integração será feita com o Google Drive, onde serão armazenados arquivos do projeto.
+  Inicialmente, o PHUB foi construído com as ferramentas do workspace, então essa parte do trabalho será reaproveitada.
+
+  - Gestão de Usuários e Perfis
+  Como autora da entrega, tenho a administração e a gerência do projeto, outros usuários poderão colaborar e visualizar o produto.
+  Todos os perfis seguros poderão acessar o repositório contendo o PHUB.
+
+
+FASE 4: Compartilhamento e Controle de Acesso (Git/GitHub)
+
+  - Estratágia de Repositórios
+  Os repositórios necessários à entrega serão usados ou criados, caso ainda não existam no momento da escrita deste texto.
+  Serão públicos para que qualquer um possa visualizar os bastidores da produção da Entrega Final.
+
+  - Controle de Acesso com Git/GitHub
+  Todas as funções do trabalho serão minhas, de modo que apenas eu terei a responsabilidade de versionar os arquivos no GitHub usando o Git.
+
+
+FASE 5: Testes, Treinamento e Go-Live
+
+  - Testes Abrangentes
+  Parte dessa etapa já foi concluída em outros momentos do curso Bootcamp I, as funcionalidades do PHUB estão averiguadas e em prática, a última parte a ser testada é a integração do google workspace com o Git e GitHub.
+
+  Não farei treinamento de equipes, transferência de outros portfólios nem go-live, pois o trabalho é individual e intransferível, o portfólio já está completo e não será anunciado ao público geral por ser em escala pequena e destinado à Entrega Final do curso Bootcamp I.
+
+
+FASE 6: Manutenção e Otimização Contínua
+
+  - Monitoramento e Suporte
+  Constantemente farei avaliações para saber como a plataforma se comporta e quaisquer problemas poderão ser reportados por e-mail, usuários podem me contatar por email pessoal e constitucional, que estão presentes em diversos momentos no PHUB. 
+  Atualizações e melhorias serão realizadas no futuro.
+  
