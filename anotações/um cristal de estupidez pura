@@ -2,6 +2,9 @@
 
 int main (){
 
+  float macacoespacial;
+  printf("yo mama");
+  scanf("%f", &macacoespacial);
 
 
 
